@@ -1,0 +1,10 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+
+node_modules
+.DS_Store
+dist
+
+./sesion-3/node_modules
+./sesion-4/node_modules
