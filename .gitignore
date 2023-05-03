@@ -8,3 +8,14 @@ dist
 
 ./sesion-3/node_modules
 ./sesion-4/node_modules
+
+.sesion-3/node_modules
+.sesion-3/.env
+.sesion-3/coverage
+.sesion-3/coverage.json
+.sesion-3/typechain
+.sesion-3/typechain-types
+
+# Hardhat files
+.sesion-3/cache
+.sesion-3/artifacts
