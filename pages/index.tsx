@@ -122,7 +122,6 @@ const Home: NextPage = () => {
       console.log("Address:", address);
       console.log("Reserve:", reserve);
       console.log("Number:", typeof(amount));
-      console.log("🚀 ~ file: index.tsx:158 ~ submitDelegate ~ contractsFromFile:", contractsFromFile)
 
       if (!isAddress(address)) throw new Error('Not a valid address')
       const txHash = await delegateCollateral(reserve, address, amount)
