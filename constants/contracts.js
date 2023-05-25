@@ -1,4 +1,4 @@
-export default contracts = {
+export const contracts = {
     // Selecting by chainID
     // Mumbai
     80001: {
